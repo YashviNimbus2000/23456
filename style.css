@@ -1,0 +1,30 @@
+body
+{
+background-color: whitesmoke;
+color: rebeccapurple;
+}
+
+.heading 
+{
+    width: 80%;
+    font-size: 25px;
+    color: palevioletred;
+    background-color: white;
+}
+
+.name_of_objects 
+{
+    color:deepskyblue;
+    font-size: 24px;
+}
+
+p,#result_object_name,#result_object_accuracy
+{
+    color: gold;
+}
+
+label 
+{
+    color: darksalmon;
+    font-size: 25px;
+}
